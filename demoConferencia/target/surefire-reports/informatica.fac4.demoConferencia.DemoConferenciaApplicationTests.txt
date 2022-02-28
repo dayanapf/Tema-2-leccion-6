@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: informatica.fac4.demoConferencia.DemoConferenciaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.769 s - in informatica.fac4.demoConferencia.DemoConferenciaApplicationTests
